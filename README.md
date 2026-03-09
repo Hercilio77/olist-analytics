@@ -70,17 +70,17 @@ duas paginas e filtros globais de Regiao, Estado e Periodo.
 O dashboard entregou respostas diretas para todas as perguntas de negocio
 e revelou tres pontos de acao imediata:
 
-**Concentracao de receita no Sudeste**
+Concentracao de receita no Sudeste
 Sao Paulo representa quase 40% do faturamento. Existe espaco para crescer
 no Nordeste e no Sul com campanhas de marketing e melhoria no frete para
 essas regioes.
 
-**Sazonalidade forte no Q4**
+Sazonalidade forte no Q4
 O pico de novembro (Black Friday) foi o maior do periodo e sobrecarregou
 a logistica. O planejamento de estoque e capacidade de entrega para o
 quarto trimestre deve ser uma prioridade anual da empresa.
 
-**Atraso logistico derruba a satisfacao**
+Atraso logistico derruba a satisfacao
 Regioes com maior tempo de entrega apresentam as menores notas medias.
 A solucao e investir em centros de distribuicao regionais ou parcerias
 com transportadoras locais para reduzir o prazo e recuperar a satisfacao
