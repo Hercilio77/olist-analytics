@@ -98,6 +98,6 @@ do cliente nessas areas.
 
 ---
 
-LinkedIn: linkedin.com/in/herciliofalcaoo
-GitHub: github.com/herciliofalcaoo
+LinkedIn: linkedin.com/in/herciliofalcao
+GitHub: github.com/Hercilio77
 
